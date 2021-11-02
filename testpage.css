@@ -1,0 +1,12 @@
+body {
+    margin: 0 0;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border: 9px solid black;
+}
+h1 {
+    font-family: Times, Helvetica, sans-serif;
+    font-size: 200%;
+    color: blue;
+}
